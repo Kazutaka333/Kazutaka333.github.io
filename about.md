@@ -4,11 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, my name is Kazutaka Homma.
+I'm a founder and software engineer at NowWhat.
 
-### More Information
+## Projects
 
-A place to include any other types of information that you'd like to include about yourself.
+### Motivate Me
+
+### Business Advertisement Club Website
+
+### Ryugaku
+
+### Kakokawa
+
+## Work Experience
 
 ### Contact me
 
