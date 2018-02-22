@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hello, my name is Kazutaka Homma.
-I'm a founder and software engineer at NowWhat and a senior student in Computer Engineering at UC San Diego.
+I'm currently a founder and software engineer at NowWhat and a senior student in Computer Engineering at UC San Diego.
 
 ## Projects
 
