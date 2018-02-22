@@ -20,6 +20,7 @@ June 2015 - December 2015
 Daily Quote app written in Swift. The app sends a notification everyday at a specified time and allows the user to browse more than 1000 quotes. Downloaded over 100 times.
 
 ### Business Advertisement Club Website
+2014
 - Official Website for Business Advertisement Club
 - Built on AWS EC2 LAMP server with wordpress
 
