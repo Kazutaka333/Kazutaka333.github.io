@@ -11,10 +11,12 @@ I'm a founder and software engineer at NowWhat and a senior student in Computer 
 
 ### basicNN
 January 2016 - June 2017
+
 This program is pure implementation of neural network. The program is trained with MNIST and outputs more than 97% correct results.
 
 ### Motivate Me
 June 2015 - December 2015 
+
 Daily Quote app written in Swift. The app sends a notification everyday at a specified time and allows the user to browse more than 1000 quotes. Downloaded over 100 times.
 
 ### Business Advertisement Club Website
