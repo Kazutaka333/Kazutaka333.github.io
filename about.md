@@ -10,7 +10,7 @@ I'm currently a founder and software engineer at NowWhat and a senior student in
 ## Projects
 
 #### Flashback Music - Android App
-*January 2018 - Presen*
+*January 2018 - Present*
 - Designed and built location- and time-based music player app that connects users through where and when they listen to music.
 - Implemented real time location and music sharing with firebase 
 
