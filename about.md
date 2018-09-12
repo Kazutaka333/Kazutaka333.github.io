@@ -7,10 +7,20 @@ permalink: /about/
 Hello, my name is Kazutaka Homma.
 I'm currently a founder and software engineer at NowWhat and a senior student in Computer Engineering at UC San Diego.
 
+## Contribution
+
+#### Lane Line finder
+
+#### apple/swift - The Swift Programming Language
+*February 2018 - April 2018*
+- Made pull request to display better diagnosis
+- This was my first commit to OSS!
+- https://github.com/apple/swift/pull/15010
+
 ## Projects
 
 #### Flashback Music - Android App
-*January 2018 - Present*
+*January 2018 - June 2017*
 - Designed and built location- and time-based music player app that connects users through where and when they listen to music.
 - Implemented real time location and music sharing with firebase 
 
