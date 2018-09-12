@@ -12,8 +12,7 @@ I'm currently a senior student in Computer Engineering at UC San Diego and tryin
 #### apple/swift - The Swift Programming Language
 *February 2018 - April 2018*
 - Made pull request to display better diagnosis
-- This was my first commit to OSS!
-- https://github.com/apple/swift/pull/15010
+- This was [my first commit](https://github.com/apple/swift/pull/15010) to OSS!
 
 ## Projects
 
