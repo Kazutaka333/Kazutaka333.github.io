@@ -20,6 +20,7 @@ I'm currently a senior student in Computer Engineering at UC San Diego and tryin
 #### [Behavioral Cloning](https://github.com/Kazutaka333/behavioral_cloning)
 *September 2018*
 - Created a deep neural net that drives a car in similartor based on the given data of drive by human.
+- Worked with Keras framework for the better scalability instead of tensorflow.
 - The trained model successfully drives around the course in the simulator.
 
 #### [Traffic Sign Classifier](https://github.com/Kazutaka333/traffic_sign_classifier)
