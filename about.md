@@ -17,7 +17,15 @@ I'm currently a senior student in Computer Engineering at UC San Diego and tryin
 
 ## Projects
 
-#### []()
+#### [Behavioral Cloning](https://github.com/Kazutaka333/behavioral_cloning)
+*September 2018*
+- Created a deep neural net that drives a car in similartor based on the given data of drive by human.
+- The trained model successfully drives around the course in the simulator.
+
+#### [Traffic Sign Classifier](https://github.com/Kazutaka333/traffic_sign_classifier)
+*August 2018*
+- Built a classifier for 43 kinds of German traffic sign with the test accuracy 95.5%.
+- Used tensorflow to build an architecture inspired by LeNet.
 
 #### [Lane Line finder](https://github.com/Kazutaka333/AdvancedLaneLineFinder)
 *July 2018*
