@@ -7,6 +7,36 @@ permalink: /about/
 Hello, my name is Kazutaka Homma.
 I'm currently a senior student in Computer Engineering at UC San Diego and trying to work in self-driving car field.
 
+## Work Experience
+
+#### Google Summer of Code - Student Developer
+*May 2018 - June 2018*
+- Contribute to swift programming language.
+- Could not complete the program due to my time management skill. 
+
+#### NowWhat, San Diego — Founder /  iOS App Engineer
+*November 2017 - Present*
+- Design and Implemented UI, API connection, Model class for  chat feature with open source framework on MVC architecture.
+- Train teammates on Git branching model and install linter for scalable and maintainable source code.
+- Created development schedule collaboratively by prioritizing each app feature and construct a milestone.
+
+#### Team Lab, Tokyo, Japan — iOS Engineer
+*July 2017 - September 2017*
+- Developed and implemented an 8th food/drink ranking iOS app using Swift, and reactive programming framework.
+- Promoted to core member of team and continued working on the iOS project in previous internship.
+- Inspected code through code review on Github for portability and consistency of the code.
+
+#### Team Lab, Tokyo, Japan — iOS Engineer Intern
+June 2017 - July 2017
+- Developed core future based on Redux architecture with ReSwift.
+- Implemented UI and API connection using Reactive Programming with RxSwift.
+- Built  main functionality for a promotional app of a major restaurant company with 8th place on food/drink ranking.
+
+#### Aqua, Tokyo, Japan — Software Engineer Intern
+June 2016 - August 2016
+- Built a prototype version of a product catalog app that is used at retail store of major cosmetic corporation for design and UI check purpose on iPad.
+- Design and implemented admin panel with Django.
+
 ## Contribution
 
 #### apple/swift - The Swift Programming Language
@@ -33,7 +63,7 @@ I'm currently a senior student in Computer Engineering at UC San Diego and tryin
 - Utilized OpenCV for edge detection, prospective transform, and thresholding image by color.
 
 #### Flashback Music - Android App
-*January 2018 - June 2017*
+*June 2017 - January 2018*
 - Designed and built location- and time-based music player app that connects users through where and when they listen to music.
 - Implemented real time location and music sharing with firebase. 
 
@@ -64,35 +94,6 @@ I'm currently a senior student in Computer Engineering at UC San Diego and tryin
 - Built on AWS EC2 LAMP server.
 - Implemented with twitter bootstrap framework.
 
-## Work Experience
-
-#### Google Summer of Code - Student Developer
-*May 2018 - June 2018*
-- Contribute to swift programming language.
-- Could not complete the program due to my time management skill. 
-
-#### NowWhat, San Diego — Founder /  iOS App Engineer
-*November 2017 - Present*
-- Design and Implemented UI, API connection, Model class for  chat feature with open source framework on MVC architecture.
-- Train teammates on Git branching model and install linter for scalable and maintainable source code.
-- Created development schedule collaboratively by prioritizing each app feature and construct a milestone.
-
-#### Team Lab, Tokyo, Japan — iOS Engineer
-*July 2017 - September 2017*
-- Developed and implemented an 8th food/drink ranking iOS app using Swift, and reactive programming framework.
-- Promoted to core member of team and continued working on the iOS project in previous internship.
-- Inspected code through code review on Github for portability and consistency of the code.
-
-#### Team Lab, Tokyo, Japan — iOS Engineer Intern
-June 2017 - July 2017
-- Developed core future based on Redux architecture with ReSwift.
-- Implemented UI and API connection using Reactive Programming with RxSwift.
-- Built  main functionality for a promotional app of a major restaurant company with 8th place on food/drink ranking.
-
-#### Aqua, Tokyo, Japan — Software Engineer Intern
-June 2016 - August 2016
-- Built a prototype version of a product catalog app that is used at retail store of major cosmetic corporation for design and UI check purpose on iPad.
-- Design and implemented admin panel with Django.
 
 ### Contact me
 
